@@ -31,5 +31,7 @@ In reality you can call this branch anything - but to have github-pages run host
 
     rm -rf *
 
-This will clean out the repository of any leftover code from building the orphan branch. We can now populate it with the Kubrick template for generating our docs. Grab the latest tag over here: 
+This will clean out the repository of any leftover code from building the orphan branch. We can now populate it with the Kubrick template for generating our docs. Grab the latest tag [from the releases page](https://github.com/chuckbutler/Kubrick-Documentation-Scaffolding/releases)
+
+   
 
