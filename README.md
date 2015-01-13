@@ -1,4 +1,4 @@
-# ![](http://blog.dasroot.net.s3-website-us-east-1.amazonaws.com/images/kubrick-logo.png) Kubrick Charm Documentation Scaffolding
+# ![](http://blog.dasroot.net.s3-website-us-east-1.amazonaws.com/images/kubrick-logo.png) Kubrick Documentation Scaffolding
 
 This charm template scaffolding is a tribute to film director, screenwriter, producer, editor, and cinematographer Stanley Kubrick. You might be asking what's the correlation? You wont find it. I just enjoy his work and wanted to attribute something to his name.
 
