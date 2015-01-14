@@ -1,8 +1,8 @@
 - title: Home
-  url: #
+  url: http://jekyllrb.com
 
-- title: User Guide
-  url: #
+- title: Documentation
+  url: http://jekyllrb.com/docs/home/
 
 - title: Getting Help
-  url: #
+  url: https://github.com/jekyll/jekyll-help
