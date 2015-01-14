@@ -43,7 +43,7 @@ You're now able to push to your remote gh-pages branch
 
 Your documentation will be available at the github.io url associated with your repository nearly instantly.
 
-![Github Settings for page generation](/images/gh_settings.png)
+![Github Settings for page generation]({{ site.url }}/images/gh_settings.png)
 
 # Create a Documentation Repository
 
@@ -79,6 +79,6 @@ You're now able to push to your remote gh-pages branch
 
 Your documentation will be available at the github.io url associated with your repository nearly instantly.
 
-![Github Settings for page generation](/images/gh_settings.png)
+![Github Settings for page generation]({{ site.url }}/images/gh_settings.png)
 
 
