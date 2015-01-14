@@ -86,10 +86,11 @@ The topbar navigation is comprised of a few files
 
 Each of the respective data files correlates to the topbar navigation unit. and follows the same guide as Side Navigation
 
-### Template Customization
+## Template Customization
 
 All of the template code is included in `_layout` and `_includes/modules`. The template is broken down into logical components and re-assembled during doc building. Feel free to modify any of these files to suit your needs. All styling updates can be done in the `css` files, and `js` is for Javascript.
 
+You will need to have a fair understanding of [Liquid Templates](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) to make modifications to the templates.
 
-
+If you have any questions I'll do my best to answer them. I can be found on irc.freenode.net in #juju as lazyPower.
 
