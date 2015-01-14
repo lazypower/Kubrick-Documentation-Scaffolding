@@ -41,7 +41,9 @@ This will clean out the repository of any leftover code from building the orphan
     git add .
     git commit -m 'Imported Kubrick Scaffolding'
 
-You're now able to push to your remote gh-pages branch `git push origin gh-pages` and within 15 minutes (typically instant) you will see your documenatation being generated and ready to rock.
+You're now able to push to your remote gh-pages branch `git push origin gh-pages`.
+
+The final step is to enable GithubPages support for your repository, and within 15 minutes (typically instant) you will see your documentation being generated and ready to rock.
 
 ### Editing the Docs
 

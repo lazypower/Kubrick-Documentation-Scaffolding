@@ -3,7 +3,7 @@ include: ['_pages']
 relative_permalinks: false
 timezone: America/New_York
 encoding: utf-8
-product: Kubrick Documentation
+product: Jekyll
 keywords: Charm Documentation, Scaffolding
 analytics_id: UA-XXXX
 repository: chuckbutler/kubrick-documentation-scaffolding
