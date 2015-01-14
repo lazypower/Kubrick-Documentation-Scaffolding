@@ -20,6 +20,7 @@ You can call this branch anything - but to have github-pages run hosting for you
 As this orphan branch has a completely separate history, we'll need to clean up the code thats left around.
 
     rm -rf *
+    git commit -a -m "Initialize Empty Branch"
 
 This will clean out the repository of any leftover code from building the orphan branch.
 
@@ -30,7 +31,8 @@ tag [from the releases page](https://github.com/chuckbutler/Kubrick-Documentatio
 
     wget https://github.com/chuckbutler/Kubrick-Documentation-Scaffolding/archive/0.0.1.tar.gz
     tar xvfz -C . 0.0.1.tar.gz
-    rm 0.0.1.tar.gz
+    mv Kubrick-Scaffolding-Dockementation/* .
+    rm -r Kubrick-Scaffolding-Documentation 0.0.1.tar.gz
     git add .
     git commit -m 'Imported Kubrick Scaffolding'
 
