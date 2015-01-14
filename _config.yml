@@ -8,4 +8,4 @@ keywords: Charm Documentation, Scaffolding
 analytics_id: UA-XXXX
 repository: chuckbutler/kubrick-documentation-scaffolding
 forkme_enabled: true
-url: http://github.io/chuckbutler/kubrick-documentation-scaffolding
+url: http://localhost:4000
